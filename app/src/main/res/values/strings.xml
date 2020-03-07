@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PQuest</string>
+    <string name="button_show_web">Get it!</string>
+    <string name="description_post_info">Description:</string>
+    <string name="screenshot">Screenshot</string>
+</resources>
